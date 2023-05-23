@@ -1,8 +1,7 @@
-package org.soopeach.springboot;
+package org.soopeach.springboot.web;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
-import org.soopeach.springboot.web.HelloController;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
 import org.springframework.test.context.junit4.SpringRunner;
